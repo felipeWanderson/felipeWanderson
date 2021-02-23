@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="400" height="400" src="https://avatars.githubusercontent.com/u/18500523?s=460&u=7310016d6535531462d38a52b7074635b02a91aa&v=4">
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/18500523/108800047-d24d4b80-7570-11eb-824b-ef5809f9e2f7.png">
  
 # Welcome!
  
